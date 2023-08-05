@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: #011F3F;
+}
+
+.text {
+
+    margin-bottom: 50px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 5rem;
+    color: #FEF2BF;
+}
+
+.text1 {
+
+    margin-bottom: 50px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2rem;
+    color: #FEF2BF;
+}
